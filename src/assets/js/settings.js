@@ -1,4 +1,4 @@
-var wordpress_url = "WORDPRESS_URL";
+var wordpress_url = "http://www.minkystienda.com/";
 var wordpress_per_page = 10;
 var request_timeout = 30000;
 var open_target_blank = true;
