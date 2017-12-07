@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.hunter.bericor" version="1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>APP_prueba</name>
-    <description>APP_DESCRIPTION</description>
+    <description>Descripcion_de_la_app</description>
     <author email="hunterpricemx@gmail.com" href="AUTH_HREF">Mariano Romero</author>
     <content src="index.html" />
     <access origin="*" />
